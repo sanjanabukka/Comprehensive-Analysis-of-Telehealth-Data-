@@ -1,4 +1,3 @@
-![Tele-Health Data Analysis](https://github.com/MadanThevar/TeleHealth-Analysis/blob/main/SDC_Tips-for-Preparing-for-Telehealth-Appt-Hero.gif?raw=true)
 
 
 
